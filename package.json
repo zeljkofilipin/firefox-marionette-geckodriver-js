@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zeljkofilipin/firefox-marionette-geckodriver-js/issues"
   },
-  "homepage": "https://github.com/zeljkofilipin/firefox-marionette-geckodriver-js#readme"
+  "homepage": "https://github.com/zeljkofilipin/firefox-marionette-geckodriver-js#readme",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.2"
+  }
 }
